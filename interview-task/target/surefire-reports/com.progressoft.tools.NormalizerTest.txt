@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.progressoft.tools.NormalizerTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.628 s - in com.progressoft.tools.NormalizerTest
